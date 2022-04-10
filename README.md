@@ -1,2 +1,2 @@
-# zero_tsuku4
-ゼロから作るDeep Learning4
+# ゼロから作るDeep Learning4
+
