@@ -7,3 +7,4 @@ https://github.com/oreilly-japan/deep-learning-from-scratch-4
 ### 5章 モンテカルロ法
 ### 6章 TD法
 ### 7章 ニューラルネットワークとQ学習
+### 8章 DQN
