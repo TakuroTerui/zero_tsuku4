@@ -8,3 +8,4 @@ https://github.com/oreilly-japan/deep-learning-from-scratch-4
 ### 6章 TD法
 ### 7章 ニューラルネットワークとQ学習
 ### 8章 DQN
+### 9章 方策勾配法
